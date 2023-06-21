@@ -19,6 +19,7 @@
 .DS_Store
 *.pem
 .idea
+password.txt
 
 # debug
 npm-debug.log*
